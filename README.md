@@ -1,2 +1,2 @@
 # bookbot
-boot.dev Test
+BB is a prifat first git test project.
