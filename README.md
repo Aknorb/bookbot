@@ -1,2 +1,2 @@
 # bookbot
-BB is a prifat first git test project.
+BB is a privat first git test project.
